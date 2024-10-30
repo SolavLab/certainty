@@ -8,6 +8,7 @@
 ## Prequisits
 - MATLAB R2018b or later
 - Statistics and Machine Learning Toolbox
+- Symbolic Math Toolbox
 
 ## Example Codes
 
@@ -29,7 +30,7 @@ run('DEMO_confidence_bound_fluid_Ellis_model.m')
 
 ## Citing the Project <a name="Cite"></a>
 If you use or modify any examples in your work you should cite the following paper:  
-[![DOI](https://img.shields.io/badge/Int.J.Eng.Sci.-10.1016/j.ijengsci.2024.104163-green.svg)](https://doi.org/10.1016/j.ijengsci.2024.104163)    
+[![DOI](https://img.shields.io/badge/Int.J.Eng.Sci.-10.1016/j.ijengsci.2024.104163-green.svg?logo=bookstack&logoColor=white)](https://doi.org/10.1016/j.ijengsci.2024.104163)    
 
 
 > Ashkenazi and Solav, (2014). _Parameter certainty quantification in nonlinear models_. International Journal of Engineering Science, [https://doi.org/10.1016/j.ijengsci.2024.104163](https://doi.org/10.1016/j.ijengsci.2024.104163)
