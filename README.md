@@ -1,4 +1,4 @@
-**License:** [![License](https://img.shields.io/badge/License-GNU_AGPLv3-orange.svg)](https://github.com/SolavLab/certainty/LICENSE)
+**License:** [![License](https://img.shields.io/badge/License-GNU_AGPLv3-orange.svg)](https://github.com/SolavLab/certainty/blob/main/LICENSE.md)
 
 # Project Summary <a name="Summary"></a>
 *certainty* contains MATLAB code for calculating objective function values at discrete parameter values, finding certainty levels, running Hessian and Jacobian calculations, and quantifying certainty for best-fit results in an n-parameter nonlinear model.
