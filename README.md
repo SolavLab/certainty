@@ -33,5 +33,5 @@ If you use or modify any examples in your work you should cite the following pap
 [![DOI](https://img.shields.io/badge/Int.J.Eng.Sci.-10.1016/j.ijengsci.2024.104163-green.svg?logo=bookstack&logoColor=white)](https://doi.org/10.1016/j.ijengsci.2024.104163)    
 
 
-> Ashkenazi and Solav, (2014). _Parameter certainty quantification in nonlinear models_. International Journal of Engineering Science, [https://doi.org/10.1016/j.ijengsci.2024.104163](https://doi.org/10.1016/j.ijengsci.2024.104163)
+> Ashkenazi and Solav, (2025). _Parameter certainty quantification in nonlinear models_. International Journal of Engineering Science, 206, 104163. [https://doi.org/10.1016/j.ijengsci.2024.104163](https://doi.org/10.1016/j.ijengsci.2024.104163)
 
