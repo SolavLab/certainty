@@ -27,7 +27,7 @@ set(0,'DefaultAxesFontSize',fontSize)
 set(0,'defaulttextinterpreter','latex');
 
 %%
-load('hyperelastic_demo_data.mat'); %Oddes's simulation results
+load('hyperelastic_demo_data.mat'); %Oddes's simulation results generated using https://github.com/SolavLab/indentify
 
 % Extract unique p1 and p2 values
 p1_values = unique(cellfun(@(x) x.p1, amit_test));
