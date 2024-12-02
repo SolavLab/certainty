@@ -51,7 +51,7 @@ end
 %
 % License: <https://github.com/SolavLab/certainty/LICENSE>
 %
-% Copyright (C) 2024 Amit Ashkenazi
+% Copyright (C) 2022 Zohar Oddes, Dana Solav, and the indentify contributors <https://github.com/SolavLab/indentify>
 % 
 % This program is free software: you can redistribute it and/or modify
 % it to fit your specifications.
